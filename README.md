@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚀 Muhammad Usama’s GitHub  
 
-<!--
-**Usama1002/Usama1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Researcher | Robotics Enthusiast | Machine Learning Innovator**  
 
-Here are some ideas to get you started:
+🔗 [GitHub](https://github.com/Usama1002) | 🌍 [Portfolio](https://Usama1002.github.io) | 📧 [Email](mailto:usama1002@proton.me)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me  
+I’m a **Ph.D. candidate at KAIST** specializing in **deep learning**, **AI fairness**, **anomaly detection**, and **intelligent robotics**. My work bridges cutting-edge research and real-world applications, with a passion for building robust, innovative solutions.  
+
+---
+
+## 🛠️ Skills & Tools  
+- **Languages:** Python, C++, MATLAB  
+- **Frameworks:** PyTorch, TensorFlow, Docker  
+- **Systems:** NVIDIA Jetson, Raspberry Pi, Linux  
+
+---
+
+## 🌟 Highlights  
+- 🏅 **President of Pakistan Gold Medal** (Best Graduate, NUST)  
+- 🏆 7th Place, **AlphaPilot AI Drone Racing**  
+- 📜 Published in top conferences like **ICCE-Asia** & **IEEE Access**  
+
+---
+
+💡 Let’s collaborate on **AI**, **robotics**, and **machine learning** projects!  
+💻 *"Empowering the future with intelligence and automation."*  
