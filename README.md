@@ -18,12 +18,5 @@ I’m a **Ph.D. candidate at KAIST** specializing in **deep learning**, **AI fai
 
 ---
 
-## 🌟 Highlights  
-- 🏅 **President of Pakistan Gold Medal** (Best Graduate, NUST)  
-- 🏆 7th Place, **AlphaPilot AI Drone Racing**  
-- 📜 Published in top conferences like **ICCE-Asia** & **IEEE Access**  
-
----
-
 💡 Let’s collaborate on **AI**, **robotics**, and **machine learning** projects!  
 💻 *"Empowering the future with intelligence and automation."*  
